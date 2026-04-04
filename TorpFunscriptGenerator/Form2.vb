@@ -189,7 +189,7 @@ Public Class PatternEditor
 
         Catch ex As DirectoryNotFoundException
 
-            MessageBox.Show("presetフォルダが見つかりません。")
+            'MessageBox.Show("presetフォルダが見つかりません。")
             Exit Sub
 
         Catch ex As Exception
