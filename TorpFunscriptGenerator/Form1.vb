@@ -9,14 +9,6 @@ Public Class TorpFunscriptGenerator
 
 #Region "定数"
 
-
-    'v0.4
-    '時間差分列の追加
-    'アンカー・ドッキング可変
-    '列の入れ替え可能
-    'パターンダイアログ最小桁数を4→5
-    'ログレベル表記
-
     'アプリケーション名、バージョン
     Public Const TITLEBAR_TAILTEXT = "TorpFunscriptGenerator v1.0.0"
 
@@ -78,7 +70,7 @@ Public Class TorpFunscriptGenerator
     Private Const LAUNCH_STROKE_WIDTH As Integer = 100
 
     'ダイヤログパス　デフォルト
-    Private Const DEFAULT_PATH = "C:\"
+    Private Const DEFAULT_PATH = ""
 
     'セーフティ時間　デフォルト（0.249秒）
     Private Const BUFFER_TIME As Integer = 249
