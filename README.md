@@ -5,6 +5,8 @@
 
 funscriptファイルを生成するWindowsアプリケーションです。
 
+!["TorpFunscriptGenerator"](/images/TFG_v1.0.0.png)
+
 ## 動作環境
 - Windows 11
 - .NETFramework,Version=v4.8
